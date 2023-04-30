@@ -1,16 +1,15 @@
 [
-  {
-    "name": "Urban Area",
-    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-    "food": 1,
-    "production": 1,
-    "gold": 1,
-    "science": 1,
-    "culture": 1,
-    "turnsToBuild": 3,
-    "techRequired": "Urbanization"
-    "uniques": [
-        "Constructing it will take over the tiles around it and assign them to your closest city",
-    ]
-  }
+	{
+		"name": "Urban Area",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"production": 1,
+		"gold": 1,
+		"culture": 1,
+		"turnsToBuild": 3,
+		"techRequired": "Refrigeration",
+		"uniques": [
+			"Constructing it will take over the tiles around it and assign them to your closest city", "Irremovable"
+		]
+	}
 ]
