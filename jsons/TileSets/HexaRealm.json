@@ -1,6 +1,6 @@
 [
  { 
-          "useColorAsBaseTerrain": "false", 
-          "fallbackTileSet": FantasyHex,
+          "useColorAsBaseTerrain": false, 
+          "fallbackTileSet": "FantasyHex"
  }
 ]
